@@ -10,8 +10,8 @@ title: Places restantes
 
 - Dimanche 26 Juin 2022
 
-![](https://img.shields.io/badge/Places%20Insurgés-28-green?style=flat&logo=Circleci&logoColor=Blue){:height="30"}
-![](https://img.shields.io/badge/Places%20OTAN-28-green?style=flat&logo=Circleci&logoColor=Blue){:height="30"}
+![](https://img.shields.io/badge/Places%20Insurgés-28-green?style=flat&logo=Circleci&logoColor=blue){:height="30"}
+![](https://img.shields.io/badge/Places%20OTAN-28-green?style=flat&logo=Circleci&logoColor=blue){:height="30"}
 
 ---
 ## Notes
