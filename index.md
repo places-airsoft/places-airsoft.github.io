@@ -24,12 +24,15 @@ title: Places restantes
 
 
 - TAT 29 May 2022
+
 ![](https://img.shields.io/badge/Places%20restantes-25-green?style=flat&logo=Circleci&logoColor=cyan){:height="30"}
 
 - TAT 12 June 2022
+
 ![](https://img.shields.io/badge/Places%20restantes-36-green?style=flat&logo=Circleci&logoColor=cyan){:height="30"}
 
 - TAT 26 June 2022
+
 ![](https://img.shields.io/badge/Places%20restantes-38-green?style=flat&logo=Circleci&logoColor=cyan){:height="30"}
 
 ---
