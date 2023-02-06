@@ -24,3 +24,39 @@ title: Parties/Places Airsoft FB
 - [SUPER BARATE] Retour sur PSV	 - 	Village de combat - Bainville sur Madon	 &nbsp; &nbsp; ⏩ &nbsp; &nbsp; 	Sa 11 Mars - 12 Mars
 
 ---
+## AMA OP
+
+- OP Bataille des Boucles de la Seine 2023	 &nbsp; &nbsp; ⏩ &nbsp; &nbsp; 	Sa 1 Avr. - 2 Avr.
+- OP Gatteras 2	 &nbsp; &nbsp; ⏩ &nbsp; &nbsp; 	Sa 8 Avr. - 9 Avr.
+
+---
+## Troll Addict
+
+Rien trouvé pour Troll Addict 😥
+
+---
+## Umbrella
+
+- Delta zone	 &nbsp; &nbsp; ⏩ &nbsp; &nbsp; 	Di 5 Mars 
+
+---
+## Onigiri
+
+Rien trouvé pour Onigiri 😥
+
+---
+## BREC
+
+Rien trouvé pour BREC 😥
+
+---
+## RAFR
+
+Rien trouvé pour RAFR 😥
+
+---
+## GOTB
+
+Rien trouvé pour GOTB 😥
+
+---
