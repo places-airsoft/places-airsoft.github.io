@@ -64,6 +64,15 @@ Rien trouvé pour Fanfan 😥
 ## Max2Joules
 
 
+- Max2joules - Orga "samedi" - 24 mai 2025 S
+![](https://img.shields.io/badge/Places%20restantes-26-green?style=flat&logo=Circleci&logoColor=cyan){:height="30"}
+
+- Max2joules - Orga "samedi" - 7 juin 2025 S
+![](https://img.shields.io/badge/Places%20restantes-30-green?style=flat&logo=Circleci&logoColor=cyan){:height="30"}
+
+- Max2joules - Orga "samedi" - 21 juin 2025 S
+![](https://img.shields.io/badge/Places%20restantes-30-green?style=flat&logo=Circleci&logoColor=cyan){:height="30"}
+
 ---
 ## AlphaUnit
 
